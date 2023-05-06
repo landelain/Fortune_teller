@@ -67,7 +67,6 @@ function quit_choice (event) { //
 
     quitcontain.classList.add('contain') 
     quitmess.id = 'quitmess'
-    fortune_teller.id = 'fortune_teller'
 
     quitmess.textContent='You will face your fate one day or a another...'
     quitcontain.appendChild(quitmess)
